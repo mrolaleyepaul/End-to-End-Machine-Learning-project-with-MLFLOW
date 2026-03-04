@@ -1,5 +1,5 @@
 pandas
-mlflow>=3.10.0
+mlflow==3.10.0
 notebook
 numpy
 scikit-learn
@@ -12,6 +12,6 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
-packaging>=26.0
-protobuf>=6.0,<7.0
+packaging==26.0
+protobuf==6.33.5
 -e .

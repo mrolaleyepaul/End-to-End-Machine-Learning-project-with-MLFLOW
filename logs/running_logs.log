@@ -1,2 +1,44 @@
 [2026-03-04 10:02:40,095: INFO: main: welcome to our custom logging]
 [2026-03-04 10:02:56,936: INFO: main: welcome to our custom logging]
+[2026-03-04 13:49:41,767: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 13:49:41,770: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 13:51:07,727: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 13:51:07,747: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 13:51:11,087: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 13:51:11,092: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 13:53:58,833: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 13:53:58,838: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 13:54:38,399: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-03-04 13:54:38,417: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-03-04 13:54:38,432: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-03-04 13:54:38,437: INFO: common: created directory at: artifacts]
+[2026-03-04 13:54:38,437: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-03-04 13:54:40,442: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CF21:331A04:04EA:1DDD:69A82B8F
+Accept-Ranges: bytes
+Date: Wed, 04 Mar 2026 12:54:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7022-JNB
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772628880.991359,VS0,VE267
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4b54696f5e2be4d797597889a2c3c92d03615170
+Expires: Wed, 04 Mar 2026 12:59:40 GMT
+Source-Age: 0
+
+]
+[2026-03-04 14:27:00,198: INFO: main: welcome to our custom logging]
+[2026-03-04 14:28:54,402: INFO: main: welcome to our custom logging]

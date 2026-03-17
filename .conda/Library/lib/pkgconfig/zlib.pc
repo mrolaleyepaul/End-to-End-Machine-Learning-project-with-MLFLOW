@@ -1,0 +1,13 @@
+prefix=c:/Users/Hp/Desktop/End-to-End-Machine-Learning-project-with-MLFLOW/.conda/Library
+exec_prefix=c:/Users/Hp/Desktop/End-to-End-Machine-Learning-project-with-MLFLOW/.conda/Library
+libdir=c:/Users/Hp/Desktop/End-to-End-Machine-Learning-project-with-MLFLOW/.conda/Library/lib
+sharedlibdir=c:/Users/Hp/Desktop/End-to-End-Machine-Learning-project-with-MLFLOW/.conda/Library/lib
+includedir=c:/Users/Hp/Desktop/End-to-End-Machine-Learning-project-with-MLFLOW/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
